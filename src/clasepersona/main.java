@@ -21,12 +21,16 @@ public class main {
         
         System.out.println("Ejercicio 1 JuezLTI");
         
-        System.out.println("paquete");
+        
         
          System.out.println("Ejercicio 2 JuezLTI");
-         System.out.println("va");
+       
          
          System.out.println("Ejercicio 3 JuezLTI");
+         
+         System.out.println("oleeeeee");
+         
+         System.out.println("Ejercicio 4 JuezLTI");
         
         
         int numPersonas;
