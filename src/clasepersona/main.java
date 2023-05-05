@@ -28,9 +28,9 @@ public class main {
          
          System.out.println("Ejercicio 3 JuezLTI");
          
-         System.out.println("oleeeeee");
-         
          System.out.println("Ejercicio 4 JuezLTI");
+         
+         System.out.println("Ejercicio 5 JuezLTI");
         
         
         int numPersonas;
@@ -108,7 +108,10 @@ public class main {
                 System.out.println("ERROR. Procesando siguiente persona");
             }
             
-            System.out.println("La cagaste wey");
+            System.out.println("no");
+            System.out.println("no");
+            System.out.println("no");
+            System.out.println("no");
 
         }
 
