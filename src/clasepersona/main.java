@@ -21,15 +21,13 @@ public class main {
         
         System.out.println("Ejercicio 1 JuezLTI");
         
-        
-        
         System.out.println("Ejercicio 2 JuezLTI");
         
         System.out.println("Ejercicio 3 JuezLTI");
         
         System.out.println("Ejercicio 4 JuezLTI");
         
-        
+        System.out.println("Ejercicio 5 JuezLTI");
         
 
         int numPersonas;
@@ -42,7 +40,7 @@ public class main {
 
         Persona persona;
         
-        System.out.println("jaajajajajajajajaajaj");
+       
 
         numPersonas = sc.nextInt();
         numPersonasSinFecha = sc.nextInt();
@@ -106,6 +104,8 @@ public class main {
             } catch (IllegalArgumentException e) {
                 System.out.println("ERROR. Procesando siguiente persona");
             }
+            
+            System.out.println("La cagaste wey");
 
         }
 
