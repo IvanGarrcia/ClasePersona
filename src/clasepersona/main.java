@@ -21,7 +21,11 @@ public class main {
         
         System.out.println("Ejercicio 1 JuezLTI");
         
+        System.out.println("ajrlfasjfdlasfdsjlaks");
+        
         System.out.println("Ejercicio 2 JuezLTI");
+        
+        System.out.println("Ejercicio 3 JuezLTI");
 
         int numPersonas;
         int numPersonasSinFecha;
