@@ -24,6 +24,9 @@ public class main {
         System.out.println("paquete");
         
          System.out.println("Ejercicio 2 JuezLTI");
+         System.out.println("va");
+         
+         System.out.println("Ejercicio 3 JuezLTI");
         
         
         int numPersonas;
