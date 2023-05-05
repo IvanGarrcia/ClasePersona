@@ -21,6 +21,10 @@ public class main {
         
         System.out.println("Ejercicio 1 JuezLTI");
         
+        System.out.println("paquete");
+        
+         System.out.println("Ejercicio 2 JuezLTI");
+        
         
         int numPersonas;
         int numPersonasSinFecha;
