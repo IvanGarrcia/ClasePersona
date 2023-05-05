@@ -20,6 +20,8 @@ public class main {
         System.out.println("Primer commit");
         
         System.out.println("Ejercicio 1 JuezLTI");
+        
+        System.out.println("Ejercicio 2 JuezLTI");
 
         int numPersonas;
         int numPersonasSinFecha;
