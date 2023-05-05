@@ -21,11 +21,16 @@ public class main {
         
         System.out.println("Ejercicio 1 JuezLTI");
         
-        System.out.println("ajrlfasjfdlasfdsjlaks");
+        
         
         System.out.println("Ejercicio 2 JuezLTI");
         
         System.out.println("Ejercicio 3 JuezLTI");
+        
+        System.out.println("Ejercicio 4 JuezLTI");
+        
+        
+        
 
         int numPersonas;
         int numPersonasSinFecha;
@@ -36,6 +41,8 @@ public class main {
         boolean fechaCorrecta;
 
         Persona persona;
+        
+        System.out.println("jaajajajajajajajaajaj");
 
         numPersonas = sc.nextInt();
         numPersonasSinFecha = sc.nextInt();
